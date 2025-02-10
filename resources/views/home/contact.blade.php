@@ -2,7 +2,7 @@
     <div class="container px-0">
       <div class="heading_container ">
         <h2 class="">
-          Contact Us With Hamid
+          Contact Us waqas change 
         </h2>
       </div>
     </div>
